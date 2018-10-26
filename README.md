@@ -1,2 +1,2 @@
 # alarmclock
-arduino, ds1302 and old plasma TV ^_^
+arduino, ds1302, vhx1623 display and old plasma TV ^_^
